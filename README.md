@@ -1,2 +1,2 @@
-# PrepCourse-Num2
-Este es  un repositorio del modulo2
+este es una prueba de como crear un repositorio desde github a mi computador
+
